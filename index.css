@@ -348,6 +348,9 @@ body::-webkit-scrollbar{
 }
 
 @media (max-width: 900px) {
+  header{
+    backdrop-filter: blur(10px);
+  }
   .nav{
     width: 50%;
   }
@@ -368,6 +371,9 @@ body::-webkit-scrollbar{
 }
 
 @media (max-width: 600px) {
+  header{
+    backdrop-filter: blur(10px);
+  }
   .nav{
     width: 60%;
   }
