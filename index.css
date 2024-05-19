@@ -414,6 +414,7 @@ body::-webkit-scrollbar{
   }
   .links{
     height: 70px;
+    padding-bottom: 20px;
   }
   .links a{
     font-size: 12px;
